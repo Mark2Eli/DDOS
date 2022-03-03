@@ -10,5 +10,5 @@
 -bash ddosevil.sh
 
 -Disfruta de la herramienta ;)
-
+-Creador https://github.com/hackingboy2020 pasaros por sus tutoriales y más 
 
