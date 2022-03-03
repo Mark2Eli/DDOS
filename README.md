@@ -3,13 +3,21 @@
 
 # Como instalarlo
 -git clone https://github.com/hackingboy2020/DdoS-Evil.git
+
+
 -chmod 777 -R DDoSEvil
+
 -cd DDoSEvil
+
 -chmod +x *
+
 -bash install.sh
+
 -bash ddosevil.sh
 
+
 -Disfruta de la herramienta ;)
+
 
 -Creador https://github.com/hackingboy2020 pasaros por sus tutoriales y más 
 
