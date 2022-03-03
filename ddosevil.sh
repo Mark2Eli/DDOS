@@ -1,7 +1,6 @@
 #!/bin/bash
 clear
 
-# Si vas a copiarme el script dame creditos porfa jiji
 
 
 
